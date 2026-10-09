@@ -10,4 +10,4 @@ venue: 'ICML 2024'
 
 **Co-author.** Published at ICML 2024.
 
-**Authors:** Shiqi Chen, Miao Xiong, 2024.
+**Authors:** 2024.

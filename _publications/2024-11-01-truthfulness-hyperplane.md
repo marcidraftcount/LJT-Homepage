@@ -10,4 +10,4 @@ venue: 'EMNLP 2024'
 
 **First author.** Published at EMNLP 2024.
 
-**Co-authors:** Shiqi Chen, 2024. The paper has an associated GitHub code repository: Universal_Truthfulness_Hyperplane.
+**Co-authors:** 2024. The paper has an associated GitHub code repository: Universal_Truthfulness_Hyperplane.
