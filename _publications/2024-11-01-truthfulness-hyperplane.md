@@ -6,8 +6,6 @@ permalink: /publication/2024-11-01-truthfulness-hyperplane
 excerpt: 'Investigating the universal truthfulness hyperplane inside large language models.'
 date: 2024-11-01
 venue: 'EMNLP 2024'
-paperurl: ''
-citation: ''
 ---
 
 **First author.** Published at EMNLP 2024.
