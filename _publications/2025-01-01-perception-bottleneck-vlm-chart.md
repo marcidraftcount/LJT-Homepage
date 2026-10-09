@@ -6,8 +6,6 @@ permalink: /publication/2025-01-01-perception-bottleneck-vlm-chart
 excerpt: 'Studying the perception bottleneck of vision-language models for chart understanding.'
 date: 2025-01-01
 venue: 'ArXiv'
-paperurl: ''
-citation: ''
 ---
 
 **First author.** 2025. Published on Arxiv.
