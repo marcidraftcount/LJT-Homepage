@@ -10,4 +10,4 @@ venue: 'NeurIPS 2023'
 
 **Co-author.** Published at NeurIPS 2023.
 
-**Authors:** Jinghan Zhang, 2023.
+**Authors:** 2023.
